@@ -12,7 +12,7 @@ const projectData = [
   {
     title: "React Website Template",
     description: "This template website was made using only ReactJS and Bootstrap CSS. I used a beginner-friendly approach here because I was in the phase of learning how to work with ReactJS and Bootstrap CSS.",
-    link: "#",
+    link: "https://evinshopeee.netlify.app/",
     image: project2 // Replace with the actual URL
   },
   // Add more objects for additional projects if needed
